@@ -1,7 +1,3 @@
-### Ahoy there 👋
-my name is Amit Nave and I'm from Israel
-#
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmiterCodes&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github.com/amitercodes/github-stats/blob/master/generated/overview.svg)
